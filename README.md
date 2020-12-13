@@ -2,19 +2,68 @@
 
 ## 1. Descripció del dataset. Perquè és important i quina pregunta/problema pretén respondre?
 
-l'objecte del seguent projecte cosisteix en predir quines de les següents bombes d'aigua són o no defectuoses.
+l'objecte del següent projecte cosisteix en predir quines de les següents bombes d'aigua són o no defectuoses.
 
 A partir de les dades facilitades per Taarifa i el Ministeri d'Aigua de Tanzània, caldrà predir quines bombes són funcionals, quines necessiten algunes reparacions i quines no funcionen en absolut. Per a fer la classificació del funcionament dels pous caldrà fer-ne l'analisis a partir de les variables facilitades sobre quin tipus de bomba, quan es van instal·lar i com es gestiona.
 
 El següent estudi permetrà coneixer i predir quins punts d'aigua fracassaran i permetrà millorar les operacions de manteniment i assegurar que l'aigua potable i neta estigui disponible per a les comunitats de Tanzània.
 
-Per a realitzar els següent estudi es faciliten 4 fitxers 'csv':
- -
- -
- -
- -
- 
 
+El projecte descrit forma part de la competició activa a a la plataforma "DrivenData.org" (DrivenData.org)
+
+Per a realitzar els següent estudi es faciliten 4 fitxers 'csv'
+a. Submission format: El format per enviar les vostres prediccions
+b. Test set values: Les variables independents que necessiten prediccions
+c. Training set labels: La variable dependent (status_group) de cadascuna de les files dels valors del conjunt d'entrenament
+d. Training set values: Les variables independents del conjunt d'entrenament
+
+Descripció dels camps:
+
+Fitxers 'SubmissionFormat.csv' i 'training_set_lablels.csv' contenten els següents camps:
+- **id**: Codi identificador de cada pou
+- **status_group**: Estat del funcionament de cada pou
+
+Fitxers 'test_set_values.csv' i 'training_set_lablels.csv' contenten els següents camps:
+- **id**: Codi identificador de cada pou
+- **amount_tsh**: 
+- **date_recorded**: 
+- **funder**: 
+- **gps_height**: 
+- **installer**: 
+- **longitude**: 
+- **latitude**: 
+- **wpt_name**: 
+- **num_private**: 
+- **basin**: 
+- **subvillage**: 
+- **region**: 
+- **region_code**: 
+- **district_code**: 
+- **lga**: 
+- **ward**: 
+- **population**: 
+- **public_meeting**: 
+- **recorded_by**: 
+- **scheme_management**: 
+- **scheme_name**: 
+- **permit**: 
+- **construction_year**: 
+- **extraction_type**: 
+- **extraction_type_group**: 
+- **extraction_type_class**: 
+- **management**: 
+- **management_group**: 
+- **payment**: 
+- **payment_type**: 
+- **water_quality**: 
+- **quality_group**: 
+- **quantity**: 
+- **quantity_group**: 
+- **source**: 
+- **source_type**: 
+- **source_class**: 
+- **waterpoint_type**: 
+- **waterpoint_type_group**: 
 
 
 ## 2. Integració i selecció de les dades d’interès a analitzar.
