@@ -2,6 +2,19 @@
 
 ## 1. Descripció del dataset. Perquè és important i quina pregunta/problema pretén respondre?
 
+l'objecte del seguent projecte cosisteix en predir quines de les següents bombes d'aigua són o no defectuoses.
+
+A partir de les dades facilitades per Taarifa i el Ministeri d'Aigua de Tanzània, caldrà predir quines bombes són funcionals, quines necessiten algunes reparacions i quines no funcionen en absolut. Per a fer la classificació del funcionament dels pous caldrà fer-ne l'analisis a partir de les variables facilitades sobre quin tipus de bomba, quan es van instal·lar i com es gestiona.
+
+El següent estudi permetrà coneixer i predir quins punts d'aigua fracassaran i permetrà millorar les operacions de manteniment i assegurar que l'aigua potable i neta estigui disponible per a les comunitats de Tanzània.
+
+Per a realitzar els següent estudi es faciliten 4 fitxers 'csv':
+ -
+ -
+ -
+ -
+ 
+
 
 
 ## 2. Integració i selecció de les dades d’interès a analitzar.
