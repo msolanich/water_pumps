@@ -11,11 +11,11 @@ El següent estudi permetrà coneixer i predir quins punts d'aigua fracassaran i
 
 El projecte descrit forma part de la competició activa a a la plataforma "DrivenData.org" (DrivenData.org)
 
-Per a realitzar els següent estudi es faciliten 4 fitxers 'csv'
-a. Submission format: El format per enviar les vostres prediccions
-b. Test set values: Les variables independents que necessiten prediccions
-c. Training set labels: La variable dependent (status_group) de cadascuna de les files dels valors del conjunt d'entrenament
-d. Training set values: Les variables independents del conjunt d'entrenament
+Per a realitzar els següent estudi es faciliten 4 fitxers 'csv':
+- Submission format: El format per enviar les vostres prediccions
+- Test set values: Les variables independents que necessiten prediccions
+- Training set labels: La variable dependent (status_group) de cadascuna de les files dels valors del conjunt d'entrenament
+- Training set values: Les variables independents del conjunt d'entrenament
 
 Descripció dels camps:
 
