@@ -98,6 +98,7 @@ possibles solucions:
 
 #### 4.2. Comprovació de la normalitat i homogeneïtat de la variància.
 
+veure pàgina 30 apunts
 
 #### 4.3. Aplicació de proves estadístiques per comparar els grups de dades. En funció de les dades i de l’objectiu de l’estudi, aplicar proves de contrast d’hipòtesis, correlacions, regressions, etc. Aplicar almenys tres mètodes d’anàlisi diferents.
 
