@@ -25,45 +25,45 @@ Fitxers 'SubmissionFormat.csv' i 'training_set_lablels.csv' contenten els següe
 
 Fitxers 'test_set_values.csv' i 'training_set_lablels.csv' contenten els següents camps:
 - **id**: Codi identificador de cada pou
-- **amount_tsh**: 
-- **date_recorded**: 
-- **funder**: 
-- **gps_height**: 
-- **installer**: 
-- **longitude**: 
-- **latitude**: 
-- **wpt_name**: 
-- **num_private**: 
-- **basin**: 
-- **subvillage**: 
-- **region**: 
-- **region_code**: 
-- **district_code**: 
-- **lga**: 
-- **ward**: 
-- **population**: 
-- **public_meeting**: 
-- **recorded_by**: 
-- **scheme_management**: 
-- **scheme_name**: 
-- **permit**: 
-- **construction_year**: 
-- **extraction_type**: 
-- **extraction_type_group**: 
-- **extraction_type_class**: 
-- **management**: 
-- **management_group**: 
-- **payment**: 
-- **payment_type**: 
-- **water_quality**: 
-- **quality_group**: 
-- **quantity**: 
-- **quantity_group**: 
-- **source**: 
-- **source_type**: 
-- **source_class**: 
-- **waterpoint_type**: 
-- **waterpoint_type_group**: 
+- **amount_tsh**: Quantitat d'aigua disponible a cada pou (Total static head)
+- **date_recorded**: Data en que s'ha creat el registre
+- **funder**: Qui a financiat el pou
+- **gps_height**:  altitud del pou GPS
+- **installer**: Organitzacio que va instal·lar el pou
+- **longitude**: Coordenada longitud GPS
+- **latitude**: Coordenada latitud GPS
+- **wpt_name**: Nom del punt d'aigua (si n'hi ha)
+- **num_private**: Conca hidrogràfica
+- **basin**: Localització conca hidrogràfica
+- **subvillage**: Localització geogràfica
+- **region**: Ubicació geogràfica de la regió
+- **region_code**: Codi ubicació geogràfica de la regió
+- **district_code**: Codi ubicació geogràfica del districte
+- **lga**: Localització geogràfica
+- **ward**: Localització geogràfica
+- **population**: Població al voltant del pou
+- **public_meeting**: cert / fals
+- **recorded_by**: Grup que introdueix aquesta fila de dades
+- **scheme_management**: Qui opera el punt d’aigua
+- **scheme_name**: Qui opera el punt d’aigua
+- **permit**: Si es permet el punt d'aigua
+- **construction_year**: Any en què es va construir el punt d'aigua
+- **extraction_type**: Tipus d’extracció que fa servir el punt d’aigua
+- **extraction_type_group**: Tipus d’extracció que fa servir el punt d’aigua
+- **extraction_type_class**: Tipus d’extracció que fa servir el punt d’aigua
+- **management**: Com es gestiona el punt d’aigua
+- **management_group**: Com es gestiona el punt d’aigua
+- **payment**: Què costa l'aigua
+- **payment_type**: El que costa l'aigua
+- **water_quality**: Qualitat de l'aigua
+- **quality_group**: Qualitat de l'aigua
+- **quantity**: Quantitat d'aigua
+- **quantity_group**: Quantitat d'aigua
+- **source**: Font de l'aigua
+- **source_type**: Font de l'aigua
+- **source_class**: Font de l'aigua
+- **waterpoint_type**: Tipus de punt d’aigua
+- **waterpoint_type_group**: Tipus de punt d’aigua
 
 
 ## 2. Integració i selecció de les dades d’interès a analitzar.
