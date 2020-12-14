@@ -1,5 +1,13 @@
 # water_pumps
 
+## 0.Introducció
+
+El següent projecte s'inclou dins l'assignatura 'Tipologia i cicle de vida de les dades' del programa del màster Ciència de Dades de la UOC.  
+
+Integrants del projecte:
+- Ana Marrodan Badell
+- Mireia Solanich Ventura
+
 ## 1. Descripció del dataset. Perquè és important i quina pregunta/problema pretén respondre?
 
 l'objecte del següent projecte cosisteix en predir quines de les següents bombes d'aigua són o no defectuoses.
