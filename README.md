@@ -72,6 +72,13 @@ Fitxers 'test_set_values.csv' i 'training_set_lablels.csv' contenten els següen
 ## 3. Neteja de les dades.
 #### 3.1. Les dades contenen zeros o elements buits? Com gestionaries aquests casos?
 
+Com podem observar hi ha camps que contenen zeros i/o elements buits. En aquests casos cal que determinem si aquesta dada es degut a un error en el moment de la obtenció o introducció del camp o en el cas del zero es un valor legitim.
+Es per això que cal que entenguem en que consisteix cada camp. 
+
+(FALTA)
+
+
+
 #### 3.2. Identificació i tractament de valors extrems.
 
 
