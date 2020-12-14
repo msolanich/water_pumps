@@ -75,7 +75,16 @@ Fitxers 'test_set_values.csv' i 'training_set_lablels.csv' contenten els següen
 Com podem observar hi ha camps que contenen zeros i/o elements buits. En aquests casos cal que determinem si aquesta dada es degut a un error en el moment de la obtenció o introducció del camp o en el cas del zero es un valor legitim.
 Es per això que cal que entenguem en que consisteix cada camp. 
 
-(FALTA)
+
+possibles solucions:
+- completar manualment els registres que falten
+- substituir per una constant
+- substituir per la mitjana
+- implementar probabilitats (regressions, interferecies basades models baesians o arbres de desició)
+- mètode kNN -> sensible valor de k
+- metode **missForest**
+
+(FALTA veure pàgina 24 apunts)
 
 
 
